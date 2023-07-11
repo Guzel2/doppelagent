@@ -1,0 +1,157 @@
+Karten:
+10x bomb, draw 3: lose a life
+4x draw a card, draw a card for every copy of this card in discrad
+2x you may mill 2. Draw a card
+2x draw 2 cards, put 1 back
+2x look at top 3 cards, one in hand, one on top, one bottom
+6x put a card (not from opponents hand or life) ontop of deck
+2x put a card under deck, put a face-up into opponent hand
+2x put 1 card from discard in hand, 1 ontop deck
+2x search deck for a card, reveal, put on top
+4x Name top card, reveal it, if you guess right draw 2. Put revealed on bottom of deck
+2x both players shuffle 2 cards into deck, then draw until 5 in hand
+2x look at top 4 cards and return in any order
+
+
+
+40 cards:
+8x bomb
+
+recovery/look:
+2x choose 2 cards from discard, put 1 in hand, 1 on top of deck
+
+look:
+4x look 4
+2x search deck for a card, put it ontop of deck
+2x look 3, put 1 in hand, 1 on top, 1 on bottom
+
+draw:
+4x draw 1, draw 1 more for everyy copy
+2x you may mill 2, draw 1
+4x guess top card, if guess right, draw 2
+
+remove from hand/draw:
+2x draw 2, put 1 on top of deck
+2x both players shuffle 2 into deck, draw until 5
+
+counter/recovery:
+6x put a face-up card on top of deck
+2x put card under deck, put face up in opp hand
+
+changes marked with **
+
+50 cards:
+new card count: 2 (bomb) + 2 (look 4) + 2 (draw, delayed) + 2 (look3, return from hand) + 2 (shuffle 2 in deck
+
+*10x bomb
+
+recovery/look:	 2
+2x choose 2 cards from discard, put 1 in hand, 1 on top of deck
+
+look: 10
+*4x look *5*, return in any order to top of deck
+*2x look 4, return any amount to top of deck, rest on bottom
+*2x search deck for *2* cards, put it ontop of deck
+2x look 3, put 1 in hand, 1 on top, 1 on bottom
+
+draw: 12
+*2x you may delay this card. draw 1
+4x draw 1, draw 1 more for everyy copy
+2x you may mill 2, draw 1
+4x guess top card, if guess right, draw 2
+
+remove from hand/draw: 6
+2x draw 2, put 1 on top of deck
+2x both players shuffle 2 into deck, draw until 5
+*2x look 3, return the cards and a card from hand to top of deck in any order 
+
+counter/recovery: 10
+6x put a face-up card on top of deck
+2x put card under deck, put face up in opp hand
+*2x shuffle two face-up cards into the deck. Draw 1
+
+
+removed cards:
+
+-1 -2 -
+
+*9*x bomb
+
+recovery/look:	 2
+2x choose 2 cards from discard, put 1 in hand, 1 on top of deck
+
+look: 10
+4x look 5, return in any order to top of deck
+2x look 4, return any amount to top of deck, rest on bottom
+2x search deck for 2 cards, put it ontop of deck
+2x look 3, put 1 in hand, 1 on top, 1 on bottom
+
+draw: 12
+2x you may delay this card. draw 1
+4x draw 1, draw 1 more for everyy copy
+2x you may mill 2, draw 1
+4x guess top card, if guess right, draw 2 or opp draw 1
+
+remove from hand/draw: 6
+2x draw 2, put 1 on top of deck
+* *0*x both players shuffle 2 into deck, draw until 5
+2x look 3, return the cards and a card from hand to top of deck in any order 
+
+counter/recovery: 10
+* *4*x put a face-up card on top of deck
+2x put card under deck, put face up in opp hand
+2x shuffle two face-up cards into the deck. Draw 1
+
+
+Cards with names:
+
+Rot: 
+Bombe: Wenn du am Ende des Zuges 3 oder mehr Bomben in der Hand hast, explodierst du.
+
+Grün:
+Teleskop: Durchsuche das Deck nach 2 Karten, decke sie auf. Mische das Deck, lege die Karten auf das Deck.
+Recycler: Wähle 2 Karten vom Ablagestapel. Nimm eine auf die Hand, lege die andere auf das Deck.
+Pfefferspray: Draw 1. Lege eine Karte aus deiner Hand auf das Deck.
+
+Silber:
+Doppelgänger: Draw 1. Draw 1 für jeden Doppelgänger im Ablagestapel.
+Zeitlupe: Delay 1 (Du kannst diese Karte um 1 später auslösen lassen). Draw 1 oder Mill 1.
+Glücksmünze: Rate die oberste Karte, decke sie auf und lege sie unter das Deck. Wenn du richtig lagst: Draw 2 oder dein Gegner Draw 1.
+Müllbeutel: Du kannst Mill 2. Draw 1.
+
+Lila:
+Super Brille: Look 5. Lege sie in beliebiger Reihenfolge auf das Deck.
+Spiegel Brille: Look 4. Lege beliebig viele davon auf das Deck oder unter das Deck. Draw 1.
+Spiral Brille: Look 3. Lege sie und eine Karte aus deiner Hand in beliebiger Reihenfolge auf das Deck.
+
+Türkis:
+Trampolin: Lege 1 offene Karte auf das Deck.
+Blitzding: Mische 2 offene Karten ins Deck. Draw 1.
+Federschuhe: Lege 1 Karte unter das Deck. Lege 1 offene Karte in die Hand deines Gegners
+
+
+
+
+
+.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.
