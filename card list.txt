@@ -105,13 +105,20 @@ counter/recovery: 10
 
 Cards with names:
 
-Rot: 
-Bombe: Wenn du am Ende des Zuges 3 oder mehr Bomben in der Hand hast, explodierst du.
-
 Grün:
 Teleskop: Durchsuche das Deck nach 2 Karten, decke sie auf. Mische das Deck, lege die Karten auf das Deck.
 Recycler: Wähle 2 Karten vom Ablagestapel. Nimm eine auf die Hand, lege die andere auf das Deck.
 Pfefferspray: Draw 1. Lege eine Karte aus deiner Hand auf das Deck.
+
+Türkis:
+Trampolin: Lege 1 offene Karte auf das Deck.
+Blitzding: Mische 2 offene Karten ins Deck. Draw 1.
+Federschuhe: Lege 1 Karte unter das Deck. Lege 1 offene Karte in die Hand deines Gegners
+
+Lila:
+Super Brille: Look 5. Lege sie in beliebiger Reihenfolge auf das Deck.
+Spiegel Brille: Look 4. Lege beliebig viele davon auf das Deck oder unter das Deck. Draw 1.
+Spiral Brille: Look 3. Lege sie und eine Karte aus deiner Hand in beliebiger Reihenfolge auf das Deck.
 
 Silber:
 Doppelgänger: Draw 1. Draw 1 für jeden Doppelgänger im Ablagestapel.
@@ -119,15 +126,9 @@ Zeitlupe: Delay 1 (Du kannst diese Karte um 1 später auslösen lassen). Draw 1 
 Glücksmünze: Rate die oberste Karte, decke sie auf und lege sie unter das Deck. Wenn du richtig lagst: Draw 2 oder dein Gegner Draw 1.
 Müllbeutel: Du kannst Mill 2. Draw 1.
 
-Lila:
-Super Brille: Look 5. Lege sie in beliebiger Reihenfolge auf das Deck.
-Spiegel Brille: Look 4. Lege beliebig viele davon auf das Deck oder unter das Deck. Draw 1.
-Spiral Brille: Look 3. Lege sie und eine Karte aus deiner Hand in beliebiger Reihenfolge auf das Deck.
+Rot: 
+Bombe: Wenn du am Ende des Zuges 3 oder mehr Bomben in der Hand hast, explodierst du.
 
-Türkis:
-Trampolin: Lege 1 offene Karte auf das Deck.
-Blitzding: Mische 2 offene Karten ins Deck. Draw 1.
-Federschuhe: Lege 1 Karte unter das Deck. Lege 1 offene Karte in die Hand deines Gegners
 
 
 

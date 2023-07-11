@@ -1,0 +1,216 @@
+[gd_scene load_steps=24 format=3 uid="uid://d32p4kaj3ey81"]
+
+[ext_resource type="Texture2D" uid="uid://dxk18c7flt7uk" path="res://sprites/card_backgrounds.png" id="1_0bn5t"]
+[ext_resource type="Script" path="res://main.gd" id="1_5wj3c"]
+[ext_resource type="Texture2D" uid="uid://bfk604nhigs8p" path="res://sprites/card_images/blitzding.png" id="1_lmn2y"]
+[ext_resource type="Texture2D" uid="uid://doy3ynf5ojiub" path="res://sprites/card_images/bombe.png" id="2_rqbej"]
+[ext_resource type="Texture2D" uid="uid://dh3y11yokr1et" path="res://sprites/card_images/doppelgänger.png" id="3_62y5j"]
+[ext_resource type="Texture2D" uid="uid://lavdtmnsmqe7" path="res://sprites/card_images/federschuhe.png" id="4_ftg45"]
+[ext_resource type="Texture2D" uid="uid://b6kiblr4yo4pp" path="res://sprites/card_images/glücksmünze.png" id="5_pkgj8"]
+[ext_resource type="Texture2D" uid="uid://lbl7k2lqxy3g" path="res://sprites/card_images/müllbeutel.png" id="6_hpqoq"]
+[ext_resource type="Texture2D" uid="uid://0x8wgtbx8dx6" path="res://sprites/card_images/pfefferspray.png" id="7_70t70"]
+[ext_resource type="Texture2D" uid="uid://vqgf130b7wve" path="res://sprites/card_images/recycler.png" id="8_6bcna"]
+[ext_resource type="Texture2D" uid="uid://882wc24pya8m" path="res://sprites/card_images/spiegel_brille.png" id="9_1ceqt"]
+[ext_resource type="Texture2D" uid="uid://cldpakl0haqyd" path="res://sprites/card_images/spiral_brille.png" id="10_rq6dm"]
+[ext_resource type="Texture2D" uid="uid://bx8k8pn7s071u" path="res://sprites/card_images/super_brille.png" id="11_l2v00"]
+[ext_resource type="Texture2D" uid="uid://d2eknqax24rgs" path="res://sprites/card_images/teleskop.png" id="12_up3xu"]
+[ext_resource type="Texture2D" uid="uid://4dpakfllc0jw" path="res://sprites/card_images/trampolin.png" id="13_vjcvi"]
+[ext_resource type="Texture2D" uid="uid://clfqyygygo4fp" path="res://sprites/card_images/zeitlupe.png" id="14_ukbe1"]
+
+[sub_resource type="SpriteFrames" id="SpriteFrames_e665c"]
+animations = [{
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("1_lmn2y")
+}],
+"loop": true,
+"name": &"blitzding",
+"speed": 5.0
+}, {
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("2_rqbej")
+}],
+"loop": true,
+"name": &"bombe",
+"speed": 5.0
+}, {
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("3_62y5j")
+}],
+"loop": true,
+"name": &"doppelgänger",
+"speed": 5.0
+}, {
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("4_ftg45")
+}],
+"loop": true,
+"name": &"federschuhe",
+"speed": 5.0
+}, {
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("5_pkgj8")
+}],
+"loop": true,
+"name": &"glücksmünze",
+"speed": 5.0
+}, {
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("6_hpqoq")
+}],
+"loop": true,
+"name": &"müllbeutel",
+"speed": 5.0
+}, {
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("7_70t70")
+}],
+"loop": true,
+"name": &"pfefferspray",
+"speed": 5.0
+}, {
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("8_6bcna")
+}],
+"loop": true,
+"name": &"recycler",
+"speed": 5.0
+}, {
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("9_1ceqt")
+}],
+"loop": true,
+"name": &"spiegel_brille",
+"speed": 5.0
+}, {
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("10_rq6dm")
+}],
+"loop": true,
+"name": &"spiral_brille",
+"speed": 5.0
+}, {
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("11_l2v00")
+}],
+"loop": true,
+"name": &"super_brille",
+"speed": 5.0
+}, {
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("12_up3xu")
+}],
+"loop": true,
+"name": &"teleskop",
+"speed": 5.0
+}, {
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("13_vjcvi")
+}],
+"loop": true,
+"name": &"trampolin",
+"speed": 5.0
+}, {
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("14_ukbe1")
+}],
+"loop": true,
+"name": &"zeitlupe",
+"speed": 5.0
+}]
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_1p6um"]
+atlas = ExtResource("1_0bn5t")
+region = Rect2(0, 0, 32, 44)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_luctv"]
+atlas = ExtResource("1_0bn5t")
+region = Rect2(32, 0, 32, 44)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_p6gtm"]
+atlas = ExtResource("1_0bn5t")
+region = Rect2(64, 0, 32, 44)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_d28la"]
+atlas = ExtResource("1_0bn5t")
+region = Rect2(96, 0, 32, 44)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_ybte2"]
+atlas = ExtResource("1_0bn5t")
+region = Rect2(128, 0, 32, 44)
+
+[sub_resource type="SpriteFrames" id="SpriteFrames_q56rx"]
+animations = [{
+"frames": [{
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_1p6um")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_luctv")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_p6gtm")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_d28la")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_ybte2")
+}],
+"loop": true,
+"name": &"default",
+"speed": 5.0
+}]
+
+[node name="main" type="Node2D"]
+script = ExtResource("1_5wj3c")
+
+[node name="Camera2D" type="Camera2D" parent="."]
+anchor_mode = 0
+
+[node name="card_image" type="AnimatedSprite2D" parent="."]
+position = Vector2(3, 8)
+sprite_frames = SubResource("SpriteFrames_e665c")
+animation = &"zeitlupe"
+centered = false
+
+[node name="card_frame" type="AnimatedSprite2D" parent="."]
+sprite_frames = SubResource("SpriteFrames_q56rx")
+centered = false
+
+[node name="name" type="Label" parent="."]
+offset_left = 3.0
+offset_top = 1.0
+offset_right = 263.0
+offset_bottom = 51.0
+scale = Vector2(0.1, 0.1)
+theme_override_colors/font_color = Color(0, 0, 0, 1)
+theme_override_font_sizes/font_size = 30
+text = "Doppelgänger"
+horizontal_alignment = 1
+vertical_alignment = 1
+
+[node name="effect" type="Label" parent="."]
+offset_left = 4.0
+offset_top = 27.0
+offset_right = 244.0
+offset_bottom = 177.0
+scale = Vector2(0.1, 0.1)
+theme_override_colors/font_color = Color(0, 0, 0, 1)
+theme_override_constants/line_spacing = 0
+theme_override_font_sizes/font_size = 18
+text = "Rate die oberste Karte, decke sie auf und lege sie unter das Deck. Wenn du richtig lagst: Draw 2 oder dein Gegner Draw 1."
+autowrap_mode = 3
